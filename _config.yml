@@ -49,10 +49,12 @@ about_title: Sobre mi
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Soy una persona que se adapta rápido a diferentes formatos de trabajo. 
-  Me considero respetuoso, compañero, y perseverante. Trato de seguir aprendiendo siempre y como parte de ese objetivo me encuentro cursando la carrera de Ingeniería Eléctrica, en la Universidad Nacional de Hurlingham. 
-  Creo que estudiar ingeniería podría sumarle muchísimo a mi experiencia, y proporcionarme una capacidad analítica y resolutiva a otra escala.
+  Me considero respetuoso, compañero, y perseverante. 
+  Trato de seguir aprendiendo siempre y como parte de ese objetivo me encuentro cursando la Tecnicatura Universitaria en Programación, 
+  en la Universidad Nacional de Hurlingham. 
   
-  Aportar lo mejor de mí es lo que me mantiene en la búsqueda constante de nuevos desafíos. Como parte de esa búsqueda y esa madurez que te da una vida laboral activa, es que valoro el ámbito de trabajo donde puedo sumar conocimientos y aplicarlos. 
+  Esforzarme, aprender, crecer, dar lo mejor de mí, es lo que me mantiene en la búsqueda constante de nuevos desafíos. 
+  Como parte de esa búsqueda y esa madurez que te da una vida laboral activa, es que valoro el ámbito de trabajo donde puedo sumar conocimientos y aplicarlos. 
   Busco desarrollarme en un ambiente dinámico y fluido, donde pueda crecer y seguir adquiriendo experiencia.
 content:
   - title: Proyectos # Title for the section
