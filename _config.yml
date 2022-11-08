@@ -57,11 +57,11 @@ about_content: | # this will include new lines to allow paragraphs
   Como parte de esa búsqueda y esa madurez que te da una vida laboral activa, es que valoro el ámbito de trabajo donde puedo sumar conocimientos y aplicarlos. 
   Busco desarrollarme en un ambiente dinámico y fluido, donde pueda crecer y seguir adquiriendo experiencia.
 content:
-  - title: Proyectos # Title for the section
+  - title: Hoy # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super (no se que es pero lo cambio)
+        title: Carpinteria M.V.
         link: github.com/sproogen
         # link_text: Project Website
         additional_links:
@@ -289,7 +289,8 @@ content:
       - layout: left
         title: UDEMY
         caption: 2022
-        link: udemy-certificate.s3.amazonaws.com/pdf/UC-cb1affa2-30b0-4e95-8ad7-fd42425ec58e.pdf
+        link: www.udemy.com
+        additional_links: udemy-certificate.s3.amazonaws.com/pdf/UC-cb1affa2-30b0-4e95-8ad7-fd42425ec58e.pdf
         sub_title: Aprende a programar desde las bases | Programación
         quote: >
           Curso práctico de programación en C. 
