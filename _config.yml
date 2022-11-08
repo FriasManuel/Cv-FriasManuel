@@ -86,7 +86,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Administración Producción
         caption: Marzo 2018 - Diciembre 2020
-        location: Ituzaingó - Buenos Aires, Argentina
         quote: >
           Por mi desempeño, obtengo un asenso e ingreso a la Oficina Técnica. Mis tareas eran la coordinacion entre departamentos y la asistencia en la produccion.
         description: | # this will include new lines to allow paragraphs
@@ -106,7 +105,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Administración Producción
         caption: Junio 2015 - Diciembre 2018
-        location: Ituzaingó - Buenos Aires, Argentina
         quote: >
           Ingrese a la empresa como Operario, me encargaba del desarrollo de tableros para la automatización de Grupos Electrógenos.
         description: | # this will include new lines to allow paragraphs
@@ -119,7 +117,6 @@ content:
         title: GP ARGENTINA
         sub_title: Desarrollador Eléctrico
         caption: Diciembre 2012 - Junio 2015
-        location: Hurlingham - Buenos Aires, Argentina
         quote: >
           Ingrese a la empresa como Operario, me encargaba del desarrollo de tableros para la automatización de Bombas de agua.
         description: | # this will include new lines to allow paragraphs
@@ -229,15 +226,90 @@ content:
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
+#-------------------Tecnicatura Univeritaria en Programación------------------------      
       - layout: left
         title: Universidad Nacional de Hurlingham - UNaHur
         caption: 2021 - Actualidad
+        link: www.unahur.edu.ar
         sub_title: Tecnicatura Universitaria en Programación
         quote: >
           La Universidad Nacional de Hurlingham es una institucion de altos estudios creada en 2014 en el Oeste del gran Bs As. Abre sus puertas en 2016 con un amplia oferta academica.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Materias Aprobadas: 07/23
+            - Introducción a lógica y problemas computacionales
+            - Organización de computadoras I
+            - Matemática I
+            - Nuevos entornos y lenguajes: la producción de conocimiento en la cultura digital
+            - Ingles II
+            - Ingles I
+            - Robótica
+          Promedio Actual: 8,86
+          Materias en curso (Segundo cuatrimestre / 2022)
+            - Matematica II
+            - Programacion Estructurada
+            - Taller de lengajes de marcado y tecnologias web.
+
+#-------------------Udemy------------------------      
+      - layout: left
+        title: UDEMY
+        caption: 2010 
+        link: www.udemy.com
+        sub_title: Aprende a programar desde las bases | Programación
+        quote: >
+          Curso práctico de programación en C. 
+        description: | # this will include new lines to allow paragraphs
+           Bases y fundamentos de la programación para el puedas desempeñar en el mundo del desarrollo de software. 
+           Conceptos básicos y practica programando directamente el el lenguaje C.
+           Certificado:
+           https://udemy-certificate.s3.amazonaws.com/pdf/UC-cb1affa2-30b0-4e95-8ad7-fd42425ec58e.pdf
+
+#-------------------Ingenieria Electrica------------------------      
+      - layout: left
+        title: Universidad Nacional de Hurlingham - UNaHur
+        caption: 2016 - Actualidad
+        link: www.unahur.edu.ar
+        sub_title: Ingeniería Eléctrica
+        quote: >
+          La Universidad Nacional de Hurlingham es una institucion de altos estudios creada en 2014 en el Oeste del gran Bs As. Abre sus puertas en 2016 con un amplia oferta academica.
+        description: | # this will include new lines to allow paragraphs
+          Materias Aprobadas: 22/44
+            - Ingeniería ambiental, seguridad e higiene
+            - Mediciones eléctricas
+            - Economía
+            - Electrónica
+            - Materiales eléctricos
+            - Programación
+            - Electrotecnia
+            - Estabilidad y resistencia de los materiales
+            - Algebra y Geometría Analítica
+            - Física I
+            - Probabilidad y estadística
+            - Organización Industrial
+            - Análisis Matemático I
+            - Sistemas de representación gráfica
+            - Nuevos entornos y lenguajes: la producción de conocimiento en la cultura digital
+            - Ingles II
+            - Ingles I
+            - Robótica
+            - Introducción a la Energía Eléctrica II
+            - Introducción a la Energía Eléctrica I
+            - Introducción al análisis matemático
+            - Química General 
+          Promedio Actual: 8,67
+    
+#-------------------Curso de AutoCad------------------------      
+      - layout: left
+        title: Universidad Nacional de Tres de Febrero - UNTREF
+        caption: 2010 
+        link: www.untref.edu.ar
+        sub_title: Curso de AutoCad I
+        quote: >
+          Universidad Nacional de Tres de Febrero. Curso y taller de AutoCad
+        description: | # this will include new lines to allow paragraphs
+          Curso de AutoCad en la Universidad Nacional de Tres de Febrero, en 2010 a cargo del Arquitecto Leonardo Magliolo.
+
+    
+#---------------------------------------------
   - title: Algo mas sobre mí
     layout: text
     content: | # this will include new lines to allow paragraphs
