@@ -235,7 +235,6 @@ content:
         quote: >
           La Universidad Nacional de Hurlingham es una institucion de altos estudios creada en 2014 en el Oeste del gran Bs As. Abre sus puertas en 2016 con un amplia oferta academica.
         description: | # this will include new lines to allow paragraphs
-          Promedio Actual: 8,86
           Materias Aprobadas: 07/23
             - Introducción a lógica y problemas computacionales
             - Organización de computadoras I
@@ -250,6 +249,7 @@ content:
             - Programacion Estructurada
             - Taller de lengajes de marcado y tecnologias web.
 
+          Promedio Actual: 8,86
 #-------------------Ingenieria Electrica------------------------      
       - layout: left
         title: Universidad Nacional de Hurlingham - UNaHur
@@ -259,7 +259,6 @@ content:
         quote: >
           La Universidad Nacional de Hurlingham es una institucion de altos estudios creada en 2014 en el Oeste del gran Bs As. Abre sus puertas en 2016 con un amplia oferta academica.
         description: | # this will include new lines to allow paragraphs
-          Promedio Actual: 8,67
           Materias Aprobadas: 22/44
             - Ingeniería ambiental, seguridad e higiene
             - Mediciones eléctricas
@@ -282,12 +281,14 @@ content:
             - Introducción a la Energía Eléctrica II
             - Introducción a la Energía Eléctrica I
             - Introducción al análisis matemático
-            - Química General 
+            - Química General
+
+          Promedio Actual: 8,67
 
 #-------------------Udemy------------------------      
       - layout: left
         title: UDEMY
-        caption: 2010 
+        caption: 2022
         link: udemy-certificate.s3.amazonaws.com/pdf/UC-cb1affa2-30b0-4e95-8ad7-fd42425ec58e.pdf
         sub_title: Aprende a programar desde las bases | Programación
         quote: >
