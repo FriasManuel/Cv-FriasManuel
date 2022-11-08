@@ -75,6 +75,8 @@ content:
           This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+
+#-----------------------EXPERIENCIA LABORAL----------------------------------------------------
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -85,7 +87,7 @@ content:
         sub_title: Administración Producción
         caption: Marzo 2018 - Diciembre 2020
         quote: >
-          En Energia Global, mi tarea era la coordinacion entre departamentos y la asistencia en la produccion.
+          Por mi desempeño, obtengo un asenso e ingreso a la Oficina Técnica. Mis tareas eran la coordinacion entre departamentos y la asistencia en la produccion.
         description: | # this will include new lines to allow paragraphs
           - Administración de Producción.
           - Coordinación entre los departamentos de Producción, Ventas, Compras y Logística.
@@ -96,6 +98,7 @@ content:
           - Digitalización de cada desarrollo.
           - Integrante de un grupo de empleados encargados de la reestructuración de los procesos productivos de la empresa.
 
+#-----------------------EXPERIENCIA LABORAL #1----------------------------------------------------
       - layout: left
         title: Energia Global SRL
         link: www.energiaglobal.com.ar
@@ -103,12 +106,123 @@ content:
         sub_title: Administración Producción
         caption: Junio 2015 - Diciembre 2018
         quote: >
-          Ingrese como Operario, me encargaba del desarrollo de tableros para la automatización de Grupos Electrógenos.
+          Ingrese a la empresa como Operario, me encargaba del desarrollo de tableros para la automatización de Grupos Electrógenos.
         description: | # this will include new lines to allow paragraphs
           - Montaje y cableado de tableros eléctricos.
           - Montaje en obra.
           - Digitalización de cada desarrollo.
 
+#-----------------------EXPERIENCIA LABORAL #2----------------------------------------------------
+      - layout: left
+        title: GP ARGENTINA
+        sub_title: Desarrollador Eléctrico
+        caption: Diciembre 2012 - Junio 2015
+        quote: >
+          Ingrese a la empresa como Operario, me encargaba del desarrollo de tableros para la automatización de Bombas de agua.
+        description: | # this will include new lines to allow paragraphs
+          - Desarrollo de tableros para la automatización de bombas de agua. 
+          - Montaje y cableado de tableros eléctricos. 
+          - Montaje en obra. 
+
+#-----------------------EXPERIENCIA LABORAL #3----------------------------------------------------
+      - layout: left
+        title: INGENIERIA & SERVICIOS
+        sub_title: Dibujante de AutoCAD (Freelance)
+        caption: Septiembre 2014 - Noviembre 2014
+        quote: >
+          Dibujante de AutoCad Freelance para empresa de Ingeniería Eléctrica
+        description: | # this will include new lines to allow paragraphs
+          Barrio Cerrado "EL CANTON". Proyecto Instalación eléctrica C.P.D. (Centro de Procesamiento de Datos) e implantación grupo electrógeno.
+
+          Planos: 
+          Layout Iluminación.
+          Layout Tomacorrientes.
+          Layout M.B.T. (Muy Baja Tensión)
+          Layout P.A.T. (Puesta a Tierra de protección, y Protección de Descargas Atmosféricas)
+          Layout Canalizaciones Troncales.
+          Layout Canalizaciones Seccionales.
+  
+#-----------------------EXPERIENCIA LABORAL #4----------------------------------------------------
+      - layout: left
+        title: INGENIERIA & SERVICIOS
+        sub_title: Dibujante de AutoCAD (Freelance)
+        caption: Junio 2013 - Agosto 2013
+        quote: >
+          Dibujante de AutoCad Freelance para empresa de Ingeniería Eléctrica
+        description: | # this will include new lines to allow paragraphs
+          UNILEVER ARGENTINA. Proyecto Instalación eléctrica de Depósito de etiquetas, Laboratorio de Físico-Química y Laboratorio de Calidad - Planta Tortuguitas.
+
+          Planos: 
+          Layout Iluminación.
+          Layout Tomacorrientes.
+          Layout M.B.T. (Muy Baja Tensión)
+          Layout P.A.T. (Puesta a Tierra de protección, y Protección de Descargas Atmosféricas)
+          Layout Canalizaciones Troncales.
+          Layout Canalizaciones Seccionales.
+
+#-----------------------EXPERIENCIA LABORAL #5----------------------------------------------------
+      - layout: left
+        title: Estudio Rodriguez - Servicios Aduaneros
+        sub_title: Empleado administrativo
+        caption: Octubre 2008 - Diciembre 2012
+        quote: >
+          Me encargaba da le gestion de documentación.
+        description: | # this will include new lines to allow paragraphs
+          - Emisión de documentos para ser presentados ante el SENASA.
+          - Confección y gestión de Avisos de llegada de Importación.
+          - Gestión de Autorizaciones de Importación de productos.
+          - Confección y gestión de formularios en Senasa Vegetal (Avisos de Importación, Madera, Afidi).
+          - Inscripción y reinscripción como Importador/Exportador.
+          - Confección y gestión de Certificados Sanitarios definitivos de Exportación.
+          - Secretaría de Industria y Comercio.
+          - Confección y gestión de Certificados de Origen según el Sistema Generalizado de Preferencias.
+          - Confección y gestión de Certificados de Origen de productos y mercadería a exportar.
+          - C.A.E. (Cámara Argentina de Exportadores)
+          - A.I.E.R.A (Asociación de Importadores y Exportadores de la República Argentina)
+          - C.E.R.A (Cámara de Exportadores de la República Argentina)
+
+#-----------------------EXPERIENCIA LABORAL #5----------------------------------------------------
+      - layout: left
+        title: Estudio Rodriguez - Servicios Aduaneros
+        sub_title: Cadete
+        caption: Junio 2005 - Octubre 2008
+        quote: >
+          Realizaba la gestion de la documentacion aduanera, la entrega de formularios y tramitacion varia de despacho.
+        description: | # this will include new lines to allow paragraphs
+          Trámites:
+          - SENASA.
+          - Senasa Vegetal (Avisos de Importación, Madera, Afidi).
+          - Secretaría de Industria y Comercio.
+          - C.A.E. (Cámara Argentina de Exportadores)
+          - A.I.E.R.A (Asociación de Importadores y Exportadores de la República Argentina)
+          - C.E.R.A (Cámara de Exportadores de la República Argentina)
+          - Agencias Marítimas.
+          - Terminales Portuarias: Pagos de ingreso y egreso de contenedores.
+
+#-----------------------EXPERIENCIA LABORAL #6----------------------------------------------------
+      - layout: left
+        title: IIPESA
+        sub_title: Ayudante de Electricista
+        caption: Enero 2004 - Marzo 2005
+        quote: >
+          Ingrese a la empresa como operario. Al mismo tiempo realizaba el desarrollo digital de los tableros electricos en AutoCad
+        description: | # this will include new lines to allow paragraphs
+          - Montaje, cableado y ensamblado de tableros Eléctricos.
+          - Automatización Industrial.
+          - Instalación en fábrica.
+
+#-----------------------EXPERIENCIA LABORAL #1----------------------------------------------------  
+      - layout: left
+        title: INGENIERIA & SERVICIOS
+        sub_title: Ayudante de Electricista
+        caption: Abril 2002 - Diciembre 2003
+        quote: >
+          La empreza pertenecia a mi padre. Mientras cursaba el ultimo año del secundario, participaba activamente del desarrollo de la empresa.
+        description: | # this will include new lines to allow paragraphs
+          - Dibujos de planos electromecánicos, Arquitectura, Ingeniería Eléctrica. 
+          - Montaje y cableado de tableros Eléctricos.
+
+#-----------------------EDUCACION----------------------------------------------------
   - title: Educación # Title for the section
     layout: list # Type of content section (list/text)
     content:
