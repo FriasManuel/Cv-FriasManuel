@@ -86,7 +86,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Administración Producción
         caption: Marzo 2018 - Diciembre 2020
-        caption: Ituzaingó - Buenos Aires, Argentina
+        ubicacion: Ituzaingó - Buenos Aires, Argentina
         quote: >
           Por mi desempeño, obtengo un asenso e ingreso a la Oficina Técnica. Mis tareas eran la coordinacion entre departamentos y la asistencia en la produccion.
         description: | # this will include new lines to allow paragraphs
@@ -106,7 +106,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Administración Producción
         caption: Junio 2015 - Diciembre 2018
-        caption1: Ituzaingó - Buenos Aires, Argentina
+        ubicacion: Ituzaingó - Buenos Aires, Argentina
         quote: >
           Ingrese a la empresa como Operario, me encargaba del desarrollo de tableros para la automatización de Grupos Electrógenos.
         description: | # this will include new lines to allow paragraphs
@@ -119,7 +119,7 @@ content:
         title: GP ARGENTINA
         sub_title: Desarrollador Eléctrico
         caption: Diciembre 2012 - Junio 2015
-        caption1: Hurlingham - Buenos Aires, Argentina
+        ubicacion: Hurlingham - Buenos Aires, Argentina
         quote: >
           Ingrese a la empresa como Operario, me encargaba del desarrollo de tableros para la automatización de Bombas de agua.
         description: | # this will include new lines to allow paragraphs
