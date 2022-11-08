@@ -288,7 +288,7 @@ content:
       - layout: left
         title: UDEMY
         caption: 2010 
-        link: udemy-certificate.s3.amazonaws.com/pdf/UC-cb1affa2-30b0-4e95-8ad7-fd42425ec58e.pdf
+        link: www.udemy.com
         sub_title: Aprende a programar desde las bases | Programación
         quote: >
           Curso práctico de programación en C. 
@@ -296,6 +296,8 @@ content:
            Bases y fundamentos de la programación para el puedas desempeñar en el mundo del desarrollo de software. 
            Conceptos básicos y practica programando directamente el el lenguaje C.
            
+           Certificado:
+           https://udemy-certificate.s3.amazonaws.com/pdf/UC-cb1affa2-30b0-4e95-8ad7-fd42425ec58e.pdf
 
 #-------------------Curso de AutoCad------------------------      
       - layout: left
