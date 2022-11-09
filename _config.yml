@@ -57,8 +57,8 @@ about_content: | # this will include new lines to allow paragraphs
   Como parte de esa búsqueda y esa madurez que te da una vida laboral activa, es que valoro el ámbito de trabajo donde puedo sumar conocimientos y aplicarlos. 
   Busco desarrollarme en un ambiente dinámico y fluido, donde pueda crecer y seguir adquiriendo experiencia.
 
-  Soy conciente de mis habilidades, se que puedo lograr lo que me proponga. Porque lo he hecho en cada trabajo que tuve. Trabajos en diferentes rubros, en donde 
-  me desempeñe por varios años en cada uno de ellos. Ingresando en puestos bajos en donde,con dedicacion y responsabilidad, fui acendiendo.
+  Soy conciente de mis habilidades, se que puedo lograr lo que me proponga, lo he hecho en cada trabajo que tuve de diferentes rubros, en donde 
+  me desempeñe por varios años en cada uno de ellos. Ingresando en puestos bajos en donde, con dedicación y responsabilidad, fui acendiendo.
 content:
   
 #-------------------------------------------------
@@ -79,12 +79,13 @@ content:
         quote: >
           Taller de capinteria artesanal - Hurlingham.
         description: | # this will include new lines to allow paragraphs
-          Actualmente me desemenpeñandome como carpintero. Ingrese al taller en diciembre de 2020, pandemia mediante, y luego de dos me encuentro mas acentado, mas formado.
+          Actualmente me desemenpeñandome como carpintero. Ingrese al taller en diciembre de 2020, pandemia mediante, y luego de dos años me encuentro mas acentado, 
+          mas formado.
           Cuando comence mis labores eran simples, los imaginables para alguien que tiene por primera ves un acercamiento al rubro.
-          Con el correr del tiempo, procucto de mis habilidades, las responsabilidades se incrementan a la par del conociminto que adquiero.
+          Con el correr del tiempo, procucto de mis habilidades, las responsabilidades se incrementan a la par del conocimiento que adquiero.
 
-          Hoy en dia me desembuelvo libremente, sin supervicion. Me encargo de la produccion de productos propios. Superviso las labores de compañeros ingresados recientemente.
-          Controlo la mercaderia que ingresa y la que egresa. Controlo stock. Colaboro con el funcionamiento estructural del taller y la planificacion de producción.
+          Hoy en dia me desenvuelvo libremente, sin supervisión. Me encargo de la producción de productos propios. Superviso las labores de compañeros ingresados recientemente.
+          Controlo la mercaderia que ingresa y la que egresa. Controlo stock. Colaboro con el funcionamiento estructural del taller y la planificación de producción.
 
 #-----------------------EXPERIENCIA LABORAL----------------------------------------------------
   - title: Experiencia # Title for the section
@@ -97,7 +98,7 @@ content:
         sub_title: Administración Producción
         caption: Marzo 2018 - Diciembre 2020
         quote: >
-          Por mi desempeño, obtengo un asenso e ingreso a la Oficina Técnica. Mis tareas eran la coordinacion entre departamentos y la asistencia en la produccion.
+          Por mi desempeño, obtengo un ascenso e ingreso a la Oficina Técnica. Mis tareas eran la coordinación entre departamentos y la asistencia en la producción.
         description: | # this will include new lines to allow paragraphs
           - Administración de Producción.
           - Coordinación entre los departamentos de Producción, Ventas, Compras y Logística.
@@ -243,7 +244,7 @@ content:
         link: www.unahur.edu.ar
         sub_title: Tecnicatura Universitaria en Programación
         quote: >
-          La Universidad Nacional de Hurlingham es una institucion de altos estudios creada en 2014 en el Oeste del gran Bs As. Abre sus puertas en 2016 con un amplia oferta academica.
+          La Universidad Nacional de Hurlingham es una institucion de altos estudios creada en 2014 en el Oeste del gran Bs As. Abre sus puertas en 2016 con una amplia oferta academica.
         description: | # this will include new lines to allow paragraphs
           Materias Aprobadas: 07/23
             - Introducción a lógica y problemas computacionales
@@ -267,7 +268,7 @@ content:
         link: www.unahur.edu.ar
         sub_title: Ingeniería Eléctrica
         quote: >
-          La Universidad Nacional de Hurlingham es una institucion de altos estudios creada en 2014 en el Oeste del gran Bs As. Abre sus puertas en 2016 con un amplia oferta academica.
+          La Universidad Nacional de Hurlingham es una institucion de altos estudios creada en 2014 en el Oeste del gran Bs As. Abre sus puertas en 2016 con una amplia oferta academica.
         description: | # this will include new lines to allow paragraphs
           Materias Aprobadas: 22/44
             - Ingeniería ambiental, seguridad e higiene
@@ -276,7 +277,7 @@ content:
             - Electrónica
             - Materiales eléctricos
             - Programación
-            - Electrotecnia
+            - Electrotécnia
             - Estabilidad y resistencia de los materiales
             - Algebra y Geometría Analítica
             - Física I
@@ -305,7 +306,7 @@ content:
           Curso práctico de programación en C. 
         description: | # this will include new lines to allow paragraphs
            Bases y fundamentos de la programación para el puedas desempeñar en el mundo del desarrollo de software. 
-           Conceptos básicos y practica programando directamente el el lenguaje C.
+           Conceptos básicos y práctica programando directamente en el lenguaje C.
            
            
 
@@ -327,14 +328,13 @@ content:
     content: | # this will include new lines to allow paragraphs
       Me gusta el deporte, particularmente el futbol. Lo practico semanalmente si los tiempos de la facultad me lo permite.
 
-      La fotografía es un hobbie que practico regularmente. Hobbie heredado de mi padre, que coincidentemente tambien lo practicó en su adolecencia. 
-      Tome varios cursos en 2009, y realice una Tecnicatura en Fotografia Profecional en "2013/2014".
+      La fotografía es un hobbie que practico regularmente. Tome varios cursos en 2009, y realice una Tecnicatura en Fotografia Profesional en "2013/2014".
 
       Me gusta leer, y me gusta aprender. Disfruto de estudiar, sobre todo cuando los objetivos estan claros.
       
       Me gusta ver series y peliculas. La musica y el tiempo en familia y con amigos.
 
-      Mi familia son mi pareja Agustina y mis tres gatos que los concidero verdaderos hijos.
+    # Mi familia son mi pareja Agustina y mis tres gatos que los concidero verdaderos hijos.
 
       
 # Footer
