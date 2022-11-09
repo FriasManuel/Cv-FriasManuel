@@ -57,24 +57,30 @@ about_content: | # this will include new lines to allow paragraphs
   Como parte de esa búsqueda y esa madurez que te da una vida laboral activa, es que valoro el ámbito de trabajo donde puedo sumar conocimientos y aplicarlos. 
   Busco desarrollarme en un ambiente dinámico y fluido, donde pueda crecer y seguir adquiriendo experiencia.
 content:
+  
+#-------------------------------------------------
   - title: Hoy # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         title: Carpinteria M.V.
-        link: github.com/sproogen
+        #link: github.com/sproogen
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        #additional_links:
+         # - title:  sproogen/modern-resume-theme
+          #  icon: fab fa-github
+           # url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Taller de capinteria artesanal
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Actualmente me desemenpeñandome laboralmente como carpintero. Ingrese al taller en diciembre de 2020, pandemia mediante, y hoy en dia me encuentro acentado.
+          Cuando comence mis labores eran simples, los imaginables para alguien que tiene por primera ves un acercamiento al rubro.
+          Con el correr del tiempo, procuto de mis habilidades, las responsabilidades se incrementan a la par del conociminto que adquiero.
+          Me desempeño libremente, sin supervicion. Me encargo de la produccion de productos propios. Superviso las labores de compañeros ingresados recientemente.
+
 
 #-----------------------EXPERIENCIA LABORAL----------------------------------------------------
   - title: Experiencia # Title for the section
@@ -289,8 +295,7 @@ content:
       - layout: left
         title: UDEMY
         caption: 2022
-        link: www.udemy.com
-        additional_links: udemy-certificate.s3.amazonaws.com/pdf/UC-cb1affa2-30b0-4e95-8ad7-fd42425ec58e.pdf
+        link: udemy-certificate.s3.amazonaws.com/pdf/UC-cb1affa2-30b0-4e95-8ad7-fd42425ec58e.pdf
         sub_title: Aprende a programar desde las bases | Programación
         quote: >
           Curso práctico de programación en C. 
