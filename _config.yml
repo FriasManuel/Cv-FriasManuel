@@ -56,6 +56,9 @@ about_content: | # this will include new lines to allow paragraphs
   Esforzarme, aprender, crecer, dar lo mejor de mí, es lo que me mantiene en la búsqueda constante de nuevos desafíos. 
   Como parte de esa búsqueda y esa madurez que te da una vida laboral activa, es que valoro el ámbito de trabajo donde puedo sumar conocimientos y aplicarlos. 
   Busco desarrollarme en un ambiente dinámico y fluido, donde pueda crecer y seguir adquiriendo experiencia.
+
+  Soy conciente de mis habilidades, se que puedo lograr lo que me proponga. Porque lo he hecho en cada trabajo que tuve. Trabajos en diferentes rubros, en donde 
+  me desempeñe por varios años en cada uno de ellos. Ingresando en puestos bajos en donde,con dedicacion y responsabilidad, fui acendiendo.
 content:
   
 #-------------------------------------------------
@@ -74,19 +77,20 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          Taller de capinteria artesanal
+          Taller de capinteria artesanal - Hurlingham.
         description: | # this will include new lines to allow paragraphs
-          Actualmente me desemenpeñandome laboralmente como carpintero. Ingrese al taller en diciembre de 2020, pandemia mediante, y hoy en dia me encuentro acentado.
+          Actualmente me desemenpeñandome como carpintero. Ingrese al taller en diciembre de 2020, pandemia mediante, y luego de dos me encuentro mas acentado, mas formado.
           Cuando comence mis labores eran simples, los imaginables para alguien que tiene por primera ves un acercamiento al rubro.
-          Con el correr del tiempo, procuto de mis habilidades, las responsabilidades se incrementan a la par del conociminto que adquiero.
-          Me desempeño libremente, sin supervicion. Me encargo de la produccion de productos propios. Superviso las labores de compañeros ingresados recientemente.
+          Con el correr del tiempo, procucto de mis habilidades, las responsabilidades se incrementan a la par del conociminto que adquiero.
 
+          Hoy en dia me desembuelvo libremente, sin supervicion. Me encargo de la produccion de productos propios. Superviso las labores de compañeros ingresados recientemente.
+          Controlo la mercaderia que ingresa y la que egresa. Controlo stock. Colaboro con el funcionamiento estructural del taller y la planificacion de producción.
 
 #-----------------------EXPERIENCIA LABORAL----------------------------------------------------
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: left
         title: Energia Global SRL
         link: www.energiaglobal.com.ar
         # link_text: boringcompany.com
@@ -321,13 +325,18 @@ content:
   - title: Algo mas sobre mí
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      Look at this cool image  
-      [Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Me gusta el deporte, particularmente el futbol. Lo practico semanalmente si los tiempos de la facultad me lo permite.
+
+      La fotografía es un hobbie que practico regularmente. Hobbie heredado de mi padre, que coincidentemente tambien lo practicó en su adolecencia. 
+      Tome varios cursos en 2009, y realice una Tecnicatura en Fotografia Profecional en "2013/2014".
+
+      Me gusta leer, y me gusta aprender. Disfruto de estudiar, sobre todo cuando los objetivos estan claros.
+      
+      Me gusta ver series y peliculas. La musica y el tiempo en familia y con amigos.
+
+      Mi familia son mi pareja Agustina y mis tres gatos que los concidero verdaderos hijos.
+
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
