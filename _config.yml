@@ -86,7 +86,7 @@ content:
   - title: Experiencia # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-left
         title: Energia Global SRL
         link: www.energiaglobal.com.ar
         # link_text: boringcompany.com
